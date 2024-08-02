@@ -14,7 +14,7 @@
     * reception yards/reception
     * reception touchdowns
     * conference (SEC, Big10, etc.)
-    * age
+    * age in final college season
   
 * **Player’s combine statistics: physical attributes, drill performance**
     * height (inches)
@@ -36,7 +36,7 @@
     * rush yards/attempt
     * rush yards/game
     * fumbles
-    * age
+    * age in first NFL season
 
 
 ### Response Variables
