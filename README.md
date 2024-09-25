@@ -1,6 +1,6 @@
-## NFL-2nd-Year-Success
+## Sophomore Slump, Sophomore Bump
 
-***Scenario: I am an NFL general manager looking ahead to next season, and I want to understand better what I can expect from certain players in different positions. Specifically, what factors influence a running back’s performance in their second season?***
+***Scenario: I am an NFL general manager looking ahead to next season, and I want to understand better what I can expect from specific players in specific positions. For this project, I want to know what factors influence a running back’s performance in their second season?***
 
 ### Predictor Variables
 * **Player’s final college-season game statistics**
